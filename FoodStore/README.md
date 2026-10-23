@@ -9,7 +9,8 @@ Dưới đây là danh sách các thành viên thực hiện dự án:
 
 | STT | Họ và Tên | MSSV | Vai trò |
 | :---: | :--- | :---: | :--- |
-| 1 | **Nghĩa Nguyễn** | `3123411077` | 👑 Leader / Dev |
+| 1 | **Nghĩa Nguyễn** | `3123411197` | dev|
+| 2 | **Lê Hoàng Giang** | `3123411077` | dev|
 
 ---
 
